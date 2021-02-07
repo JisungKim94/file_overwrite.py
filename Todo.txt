@@ -1,0 +1,5 @@
+Todo
+
+mymodule.py에 있는 changecontents 함수 만들기,
+특정 text가 있는 위치값 받아서 그 text 수정하는 함수.
+mymodule.filefind 함수로 위치는 받아올 수 있음
